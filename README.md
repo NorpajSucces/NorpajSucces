@@ -7,6 +7,14 @@ Perkenalkan nama saya **Zhafran Pradistyatana Kuncoro**.<br>
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zhafran-kuncoro-63b5b4263/)
 
+
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NorpajSucces&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NorpajSucces&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **NorpajSucces/NorpajSucces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
