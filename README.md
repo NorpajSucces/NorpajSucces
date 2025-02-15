@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi Everyone! 
+
+Perkenalkan nama saya **Zhafran Pradistyatana Kuncoro**.<br>
+
+- 🔭 I'm currently studying at [Universitas Islam Negeri Sunan Kalijaga Yogyakarta](https://uin-suka.ac.id/)
+- 📚 Now I am taking part in the [DBS Coding Camp 2025 program](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html)
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zhafran-kuncoro-63b5b4263/)
 
 <!--
 **NorpajSucces/NorpajSucces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
